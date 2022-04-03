@@ -1,4 +1,4 @@
-This project is the source for my tutorial that you can [find here](https://popeating.medium.com/advanced-page-transitions-in-next-js-with-router-events-and-gsap-e8435d2410bb)
+This project is the source for my tutorial "Advanced page transitions in Next.js with Router events and GSAP" that you can [find here](https://popeating.medium.com/advanced-page-transitions-in-next-js-with-router-events-and-gsap-e8435d2410bb)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
